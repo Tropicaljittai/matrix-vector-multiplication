@@ -22,7 +22,7 @@ Commands:
 
 Below is the graph displayed from desmos
 
-![matrix graph](https://cdn.discordapp.com/attachments/734045662169137234/1049313653775675502/image.png)
+![matrix graph](https://cdn.discordapp.com/attachments/734045662169137234/1049317502800384051/image.png)
 
 # Space complexity
 
