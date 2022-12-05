@@ -1,18 +1,18 @@
 
 run:
 	gcc -o mylib.o -c mylib/mylib.c
-	gcc -o main.out main_test.c mylib.o
+	gcc -o main.out main.c mylib.o
 	./main.out
 
 time:
 	gcc -o mylib.o -c mylib/mylib.c
-	gcc -o main_b_time.out main_b_time.c mylib.o
-	./main_b_time.out
+	gcc -o time.out time.c mylib.o
+	./time.out
 
 space:
 	gcc -o mylib.o -c mylib/mylib.c
-	gcc -o main_b_space.out main_b_space.c mylib.o
-	./main_b_space.out
+	gcc -o space.out space.c mylib.o
+	./space.out
 
 clear:
 	rm *.out
