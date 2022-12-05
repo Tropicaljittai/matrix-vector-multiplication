@@ -1,9 +1,6 @@
-# matrix-vector-mult-benchmark
+# Matrix and Vector Multiplication Benchmark Results
 
-github link = https://github.com/regencode/matrix-vector-mult-benchmark
-How to run:
-
-For Windows:
+Code execution or Windows:
 Change the directory to where the folder in WSL(must have Make module installed)
 
 Commands:
