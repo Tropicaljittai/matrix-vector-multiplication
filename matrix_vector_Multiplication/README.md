@@ -26,7 +26,7 @@ Below is the graph displayed from desmos
 
 # Space complexity
 
-Running the main_b_space.c files, will execute a forever loop within the program. It is done by running the following command: make space; the files are then executed 3 times each with different input values (n = 1200 till n = 300, with 300 + or - everytime.)
+Running the main_b_space.c files, will execute a forever loop within the program. It is done by running the following command: make space; the files are then executed 3 times each with different input values (n = 1200 till n = 300, with 300 + or - with each passing one way or another.)
 
 
 ![matrix vect mult space](https://cdn.discordapp.com/attachments/734045662169137234/1049313194654580756/image.png))
